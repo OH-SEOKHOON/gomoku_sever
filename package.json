@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express-session": "^1.18.1",
+    "mongodb": "^6.15.0",
+    "session-file-store": "^1.5.0",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.1.0"
+  }
+}
